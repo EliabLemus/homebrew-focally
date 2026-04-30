@@ -13,4 +13,9 @@ cask "focally" do
     "~/Library/Application Support/Focally",
     "~/Library/Preferences/app.focally.mac.plist",
   ]
+
+  livecheck do
+    url :url
+    strategy :github_latest
+  end
 end
