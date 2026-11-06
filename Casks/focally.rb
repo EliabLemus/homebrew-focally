@@ -1,6 +1,6 @@
 cask "focally" do
-  version "0.11.0"
-  sha256 "4a2406f536ed2f675b34175c6d9fa083e121ad733ab22691a17ea2b80d70cdfd"
+  version "0.11.1"
+  sha256 "ae3dc17efef6a957f8d080b6a551260b6b4a2372cde318b108796e44918cca28"
 
   url "https://github.com/EliabLemus/focally/releases/download/v#{version}/Focally-v#{version}.dmg"
   name "Focally"
